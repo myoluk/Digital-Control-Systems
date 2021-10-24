@@ -1,4 +1,4 @@
-# Digital-Control-Systems
+# Digital Control Systems
 
 There are **2 matlab codes** and a **PID** (Proportional Integral Derivative) [project](https://github.com/myoluk/Digital-Control-Systems/tree/main/MIT-PID-Project) from MIT.
 
